@@ -42,8 +42,15 @@ Once setup is complete, run the Python script to generate the various histograms
 ### Example Visualizations
 
 * **CO₂ Emissions Distribution (Histogram)**: Displays how CO₂ emission levels are spread across vehicles.
+* **Fuel Distribution (Histogram)**: Shows the range and concentration of fuel efficiency values.
+* **Vehicle Makes Distribution (Histogram)**: Illustrates the frequency of different vehicle brands in the dataset.
 * **Correlation Matrix (Heatmap)**: Highlights relationships between key variables like fuel efficiency, CO₂ emissions, and more.
 
 ### Conclusion
 
 This project offers a comprehensive look at transport-related data, useful for shaping policies around emission. The visualizations help uncover meaningful patterns and correlations, aiding in the assessment of transportation's environmental footprint.
+
+Authors:
+
+- Oreste Abizera
+- Denyse Mutoni 
